@@ -1,7 +1,7 @@
 {
   "NAME"     : "LagrangeProjectRSS",
   "DOWNLOAD" : "https://github.com/dongk99/LagrangeProjectRSS/releases",
-  "URL"      : "https://raw.githubusercontent.com/LagrangeProjectRSS/master/GameData/LagrangeProjectRSS/LPR.version",
+  "URL"      : "https://raw.githubusercontent.com/dongk99/LagrangeProjectRSS/refs/heads/main/LagrangeProjectRSS/LPR.version",
   "GITHUB" : {
     "USERNAME"   : "dongk99",
     "REPOSITORY" : "LagrangeProjectRSS"
